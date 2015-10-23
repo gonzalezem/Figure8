@@ -1,5 +1,4 @@
-# Figure8
-Global transcriptome - annotation origin of all contigs (including non-DE)
+#Global transcriptome - annotation origin of all contigs (including non-DE)
 
 Credit: <a href="https://github.com/marbl/Krona/wiki">Krona</a>
 
