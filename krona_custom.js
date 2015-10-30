@@ -293,8 +293,8 @@ var logoImage;
 
 function resize()
 {
-	imageWidth = 1200 //window.innerWidth;
-	imageHeight = 1200 //window.innerHeight;
+	imageWidth = window.innerWidth;
+	imageHeight = window.innerHeight;
 	
 	if ( ! snapshotMode )
 	{
